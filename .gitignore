@@ -1,0 +1,10 @@
+# Ignore all input files anywhere in the project
+**/input.txt
+**/input*.txt
+
+# Ignore compiled Java class files
+**/*.class
+
+# OS junk files
+.DS_Store
+Thumbs.db
