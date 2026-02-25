@@ -1,4 +1,4 @@
-# Advent of Code 2024
+# Advent of Code 2025
 
 My solutions in Java.
 
